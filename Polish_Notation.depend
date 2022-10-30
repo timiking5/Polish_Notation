@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1667146548 source:c:\users\user\desktop\相镟\gramming\c\polish_notation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"queue.h"
+	"stack.h"
+	"sol.h"
+
+1667146492 c:\users\user\desktop\相镟\gramming\c\polish_notation\queue.h
+
+1667146460 c:\users\user\desktop\相镟\gramming\c\polish_notation\stack.h
+
+1667146526 c:\users\user\desktop\相镟\gramming\c\polish_notation\sol.h
+
+1667146310 source:c:\users\user\desktop\相镟\gramming\c\polish_notation\queue.c
+	<stdlib.h>
+	<stdio.h>
+	"queue.h"
+
+1667146381 source:c:\users\user\desktop\相镟\gramming\c\polish_notation\stack.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"stack.h"
+
